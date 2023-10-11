@@ -23,8 +23,16 @@ This is an interactive rendering of an apartment created in a video game engine,
 
 ## Capturas de pantalla
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="./assets/screenshots/LoginScreen.png" width=700 height=350>
-  <img src="./assets/screenshots/HomeScreen.png" width=700 height=350>
+  <img src="./screenshots/image01.png">
+  <img src="./screenshots/image02.png">
+  <img src="./screenshots/image03.png">
+  <img src="./screenshots/image04.png">
+  <img src="./screenshots/image05.png">
+  <img src="./screenshots/image06.png">
+  <img src="./screenshots/image07.png">
+  <img src="./screenshots/image08.png">
+  <img src="./screenshots/image09.png">
+  <img src="./screenshots/image10.png">
 </div>
 
 ## Features
