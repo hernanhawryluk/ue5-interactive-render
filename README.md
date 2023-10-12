@@ -39,15 +39,17 @@ This is an interactive rendering of an apartment created in a video game engine,
 
 ## Blueprints
 
-<img src="./blueprints/aiming-focus-interaction.png" width="45%" style="margin: 5px;">
-<img src="./blueprints/camera-zoom-inout.png" width="45%" style="margin: 5px;">
-<img src="./blueprints/open-close-door.png" width="45%" style="margin: 5px;">
-<img src="./blueprints/toggle-over-door.png" width="45%" style="margin: 5px;">
-<img src="./blueprints/curtain-slide-toggle.png" width="45%" style="margin: 5px;">
-<img src="./blueprints/single-light-toggle.png" width="45%" style="margin: 5px;">
-<img src="./blueprints/change-light-source.png" width="45%" style="margin: 5px;">
-<img src="./blueprints/multi-light-toggle.png" width="45%" style="margin: 5px;">
-<img src="./blueprints/change-wall-ui.png" width="45%" style="margin: 5px;">
-<img src="./blueprints/change-wall-paint.png" width="45%" style="margin: 5px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="./blueprints/aiming-focus-interaction.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/camera-zoom-inout.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/open-close-door.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/toggle-over-door.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/curtain-slide-toggle.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/single-light-toggle.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/change-light-source.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/multi-light-toggle.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/change-wall-ui.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/change-wall-paint.png" width="45%" style="margin: 5px;">
+</div>
 
 Made by Hernán Hawryluk - www.linkedin.com/in/hernan-hawryluk
