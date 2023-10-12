@@ -6,7 +6,7 @@ This is an interactive rendering of an apartment created in a video game engine,
 
 ## Características
 
-- Logra un nivel de realismo fotográfico impresionante.
+- Recreación del ambiente con realismo fotográfico.
 - Permite explorar libremente sin rutas predefinidas.
 - Interactúa con objetos como puertas, lámparas y canillas.
 - Personaliza los acabados de pintura, pisos y mesadas al interactuar con el entorno.
@@ -19,9 +19,11 @@ This is an interactive rendering of an apartment created in a video game engine,
 - Implementación de la interactividad: Unreal Engine Blueprints.
 
 ## Video
+
 - Soon
 
 ## Capturas de pantalla
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="./screenshots/image01.png" width="45%" style="margin: 5px;">
   <img src="./screenshots/image02.png" width="45%" style="margin: 5px;">
@@ -35,19 +37,17 @@ This is an interactive rendering of an apartment created in a video game engine,
   <img src="./screenshots/image10.png" width="45%" style="margin: 5px;">
 </div>
 
-## Features
+## Blueprints
 
-- Achieves an impressive level of photorealism.
-- Allows free exploration without predefined paths.
-- Interacts with objects like doors, lamps, and faucets.
-- Customizes paint finishes, floors, and countertops by interacting with the environment.
-- Experiences real-time lighting changes by interacting with keys or curtains.
+<img src="./screenshots/aiming-focus-interaction.png" width="45%" style="margin: 5px;">
+<img src="./screenshots/camera-zoom-inout.png" width="45%" style="margin: 5px;">
+<img src="./screenshots/open-close-door.png" width="45%" style="margin: 5px;">
+<img src="./screenshots/toggle-over-door.png" width="45%" style="margin: 5px;">
+<img src="./screenshots/curtain-slide-toggle.png" width="45%" style="margin: 5px;">
+<img src="./screenshots/single-light-toggle.png" width="45%" style="margin: 5px;">
+<img src="./screenshots/change-light-source.png" width="45%" style="margin: 5px;">
+<img src="./screenshots/multi-light-toggle.png" width="45%" style="margin: 5px;">
+<img src="./screenshots/change-wall-ui.png" width="45%" style="margin: 5px;">
+<img src="./screenshots/change-wall-paint.png" width="45%" style="margin: 5px;">
 
-## Technologies used
-
-- 3D Modeling: SketchUp.
-- Game Engine: Unreal Engine 5 (Lumen).
-- Implementation of interactivity: Unreal Engine Blueprints.
-
-Hecho por Hernán Hawryluk - www.linkedin.com/in/hernan-hawryluk
 Made by Hernán Hawryluk - www.linkedin.com/in/hernan-hawryluk
