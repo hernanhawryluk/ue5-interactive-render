@@ -19,8 +19,8 @@ This is an interactive rendering of an apartment created in a video game engine,
 - Implementación de la interactividad: Unreal Engine Blueprints.
 
 ## Video
-
-- Soon
+- Cinematográfico: https://youtu.be/jFY9ru9SmYc
+  
 
 ## Capturas de pantalla
 
