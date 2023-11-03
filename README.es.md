@@ -71,4 +71,4 @@ Este es un render interactivo de un departamento creado en un motor de videojueg
   <img src="./blueprints/change-wall-paint.png" width="45%" style="margin: 5px;">
 </div>
 
-Made by Hernán Hawryluk - www.linkedin.com/in/hernan-hawryluk
+Desarrollado por Hernán Hawryluk - www.linkedin.com/in/hernan-hawryluk

@@ -29,9 +29,9 @@ This is an interactive render of an apartment created in a video game engine as 
 
 - https://drive.google.com/file/d/1gCEyTH4SarvPQxqU7l2hbXpaLNApfR7k/view?usp=sharing
 
-2. Unzip the file ue5-render-interactive.zip.
-3. Access the ue5-interactive-render folder.
-4. Run the InteractiveRender.exe file.
+2. Unzip the file `ue5-render-interactive.zip`.
+3. Access the `ue5-interactive-render` folder.
+4. Run the `InteractiveRender.exe` file.
 
 ## Minimum Requirements
 
@@ -42,3 +42,33 @@ This is an interactive render of an apartment created in a video game engine as 
 - Storage: High-speed, high-capacity solid-state drive (SSD) for quick asset and texture loading.
 
 ## Screenshots
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="./screenshots/image01.png" width="45%" style="margin: 5px;">
+  <img src="./screenshots/image02.png" width="45%" style="margin: 5px;">
+  <img src="./screenshots/image03.png" width="45%" style="margin: 5px;">
+  <img src="./screenshots/image04.png" width="45%" style="margin: 5px;">
+  <img src="./screenshots/image05.png" width="45%" style="margin: 5px;">
+  <img src="./screenshots/image06.png" width="45%" style="margin: 5px;">
+  <img src="./screenshots/image07.png" width="45%" style="margin: 5px;">
+  <img src="./screenshots/image08.png" width="45%" style="margin: 5px;">
+  <img src="./screenshots/image09.png" width="45%" style="margin: 5px;">
+  <img src="./screenshots/image10.png" width="45%" style="margin: 5px;">
+</div>
+
+## Blueprints
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="./blueprints/aiming-focus-interaction.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/camera-zoom-inout.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/open-close-door.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/toggle-over-door.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/curtain-slide-toggle.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/single-light-toggle.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/change-light-source.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/multi-light-toggle.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/change-wall-ui.png" width="45%" style="margin: 5px;">
+  <img src="./blueprints/change-wall-paint.png" width="45%" style="margin: 5px;">
+</div>
+
+Developed by Hernán Hawryluk - www.linkedin.com/in/hernan-hawryluk
