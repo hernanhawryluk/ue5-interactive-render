@@ -11,7 +11,7 @@
   <a href="#" target="_blank"><img alt="SketchUp" src="https://img.shields.io/badge/SketchUp%20Pro-2021-blue?logo=sketchup"></a>
 </div>
 
-# Description
+## Description
 
 This is an interactive render of an apartment created in a video game engine as part of my previous experience as a renderer and is now a part of my portfolio as a developer.
 
