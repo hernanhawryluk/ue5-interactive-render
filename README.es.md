@@ -1,6 +1,6 @@
 # ue5-interactive-render
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/hernanhawryluk/ue5-interactive-render/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-english-red.svg)](https://github.com/hernanhawryluk/ue5-interactive-render/blob/main/README.md)
 
 Este es un render interactivo de un departamento creado en un motor de videojuegos como parte de mi experiencia previa como renderista y ahora forma parte de mi portafolio como desarrollador.
 
