@@ -1,15 +1,17 @@
 # ue5-interactive-render
 
 <div>
-  <h4>Language options</h4>
-  <a href="https://github.com/hernanhawryluk/ue5-interactive-render/blob/main/README.md" target="_blank"><img alt="Change language to english" src="https://img.shields.io/badge/language-english-yellow.svg"></a>
+  <h4>Opciones de lenguaje</h4>
+  <a href="https://github.com/hernanhawryluk/ue5-interactive-render/blob/main/README.md"><img alt="Change language to english" src="https://img.shields.io/badge/language-english-yellow.svg"></a>
   <a href="#" target="_blank"><img alt="Visitas" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.ue5-interactive-render"></a>
 </div>
 <div>
-  <h3>Technologies used</h3>
+  <h3>Tecnologías utilizadas</h3>
   <a href="#" target="_blank"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-5.0-blue?logo=unrealengine"></a>
   <a href="#" target="_blank"><img alt="SketchUp" src="https://img.shields.io/badge/SketchUp%20Pro-2021-blue?logo=sketchup"></a>
 </div>
+
+## Descripción
 
 Este es un render interactivo de un departamento creado en un motor de videojuegos como parte de mi experiencia previa como renderista y ahora forma parte de mi portafolio como desarrollador.
 
@@ -80,9 +82,9 @@ Este es un render interactivo de un departamento creado en un motor de videojueg
   <img src="./blueprints/change-wall-paint.png" width="49%" />
 </div>
 
-## Donde encontrarme?
+## ¿Donde encontrarme?
 
 <div>
-  <a href="https://github.com/hernanhawryluk" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/hernan-hawryluk" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/hernanhawryluk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/hernan-hawryluk"><img alt="GitHub" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </div>

@@ -2,7 +2,7 @@
 
 <div>
 <h4>Language options</h4>
-  <a href="https://github.com/hernanhawryluk/ue5-interactive-render/blob/main/README.es.md" target="_blank"><img alt="Cambiar idioma a español" src="https://img.shields.io/badge/idioma-español-yellow.svg"></a>
+  <a href="https://github.com/hernanhawryluk/ue5-interactive-render/blob/main/README.es.md"><img alt="Cambiar idioma a español" src="https://img.shields.io/badge/idioma-español-yellow.svg"></a>
   <a href="#" target="_blank"><img alt="Visitors Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.ue5-interactive-render"></a>
 </div>
 <div>
@@ -10,6 +10,8 @@
   <a href="#" target="_blank"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-5.0-blue?logo=unrealengine"></a>
   <a href="#" target="_blank"><img alt="SketchUp" src="https://img.shields.io/badge/SketchUp%20Pro-2021-blue?logo=sketchup"></a>
 </div>
+
+# Description
 
 This is an interactive render of an apartment created in a video game engine as part of my previous experience as a renderer and is now a part of my portfolio as a developer.
 
@@ -83,6 +85,6 @@ This is an interactive render of an apartment created in a video game engine as 
 ## Where to find me?
 
 <div>
-  <a href="https://github.com/hernanhawryluk" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/hernan-hawryluk" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/hernanhawryluk"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/hernan-hawryluk"><img alt="GitHub" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </div>
