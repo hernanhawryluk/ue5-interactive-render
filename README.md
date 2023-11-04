@@ -1,6 +1,6 @@
 # ue5-interactive-render
 
-[![es](https://img.shields.io/badge/lang-español-yellow.svg)](https://github.com/hernanhawryluk/ue5-interactive-render/blob/main/README.es.md)
+[![es](https://img.shields.io/badge/idioma-español-yellow.svg)](https://github.com/hernanhawryluk/ue5-interactive-render/blob/main/README.es.md)
 
 This is an interactive render of an apartment created in a video game engine as part of my previous experience as a renderer and is now a part of my portfolio as a developer.
 
